@@ -105,7 +105,7 @@ if __name__ == '__main__':
         ],
         extras_require={
             'gui': [
-                'PySimpleGUI==4.59.0',
+                'PySimpleGUI==5.0.8.3',
             ],
             'dev': (
                 (
